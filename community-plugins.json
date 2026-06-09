@@ -31981,5 +31981,12 @@
     "author": "Marcel Reis-Soubkovsky",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Render markdown-backed Kanban boards in Obsidian with a React UI.",
     "repo": "marcelrsoub/react-kanban"
+  },
+  {
+    "id": "gitsync",
+    "name": "GitSync",
+    "author": "alexandervasin",
+    "description": "One-click Git sync for your vault (GitHub via HTTPS token) with conflict resolution. Works on desktop and mobile. English and Russian UI.",
+    "repo": "heeeyMan/ObsSync"
   }
 ]
